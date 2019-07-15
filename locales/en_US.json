@@ -9,6 +9,7 @@
     },
     "alarms": {
       "active": "Active",
+      "allAlarms": "All Alarms",
       "completed": "Resolved",
       "intro": "(untranslated) alarms.intro",
       "over-three-hours": "3hrs+",
@@ -165,7 +166,6 @@
       "invalid-email": "Not valid email address"
     },
     "metrics": {
-      "timeSelect": "Select time",
       "analyse": "Analyse",
       "chart-offline-description": "No data available because the device was offline",
       "csv-button": "CSV",
@@ -190,6 +190,7 @@
       "show-result": "Show result of:",
       "summary": "Summary",
       "timeline": "Timeline",
+      "timeSelect": "Select time",
       "title": "Metrics",
       "utilization": "Utilization",
       "week": "This week"
