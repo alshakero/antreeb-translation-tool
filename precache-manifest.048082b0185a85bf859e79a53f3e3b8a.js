@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7c0563231fe142be4dd11357815fb32",
+    "revision": "9a2f2993e042023e324bd8dad8d92a58",
     "url": "/antreeb-translation-tool/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/antreeb-translation-tool/static/css/2.ca025b70.chunk.css"
   },
   {
-    "revision": "d919bc9f03f3f1323b29",
+    "revision": "93afcb56f6e5101cbafb",
     "url": "/antreeb-translation-tool/static/css/main.f2e6660b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/antreeb-translation-tool/static/js/2.203c70b6.chunk.js"
   },
   {
-    "revision": "d919bc9f03f3f1323b29",
-    "url": "/antreeb-translation-tool/static/js/main.f6be9f45.chunk.js"
+    "revision": "93afcb56f6e5101cbafb",
+    "url": "/antreeb-translation-tool/static/js/main.e3d72398.chunk.js"
   },
   {
     "revision": "25643116466dfc20f538",

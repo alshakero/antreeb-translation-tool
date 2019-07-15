@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/antreeb-translation-tool/precache-manifest.2148d59c207edbf9580f1bd5d07b092b.js"
+  "/antreeb-translation-tool/precache-manifest.048082b0185a85bf859e79a53f3e3b8a.js"
 );
 
 self.addEventListener('message', (event) => {
